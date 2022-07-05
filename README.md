@@ -1,2 +1,3 @@
 # Hello Word
- Primeiro repositorio versionado 
+ Primeiro repositorio do curso Git & GitHub
+ Repositorio criado
